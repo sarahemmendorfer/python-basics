@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20637789-5853-43c2-8d6c-540bfd5ca73e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ex 101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex 102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex 103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex 104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex 105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex 106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex 107/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex 107/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex 108/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex 108/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex 113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex 114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex109/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex109/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex110/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex110/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex111/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex111/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex111/utilidadescv/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex111/utilidadescv/dados/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex111/utilidadescv/moeda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112/utilidadescv/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112/utilidadescv/dados/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112/utilidadescv/moeda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex115/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex115/lib/arquivo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex115/lib/interface/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex115/sistema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex 098.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex 098.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex 099.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex 099.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex 100.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex 100.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CursoemVideo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1PNbZovB6RhP78eyk0eYrl1Wgri" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sarah\OneDrive\Documentos\PROJETOS\estudodepython\exercicioscv" />
+      <recent name="C:\Users\sarah\OneDrive\Documentos\CursoemVideo\CursoemVideo" />
+      <recent name="C:\Users\sarah\PycharmProjects\CursoemVideo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.sistema">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoemVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex112/utilidadescv/dados" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex112/utilidadescv/dados/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex 027" type="PythonConfigurationType" factoryName="Python">
+      <module name="CursoemVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex 027.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex 113" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoemVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex 113.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex 114" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoemVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex 114.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sistema" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoemVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex115" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex115/sistema.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoemVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex112" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex112/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sistema" />
+        <item itemvalue="Python.ex 114" />
+        <item itemvalue="Python.ex 113" />
+        <item itemvalue="Python.teste (5)" />
+        <item itemvalue="Python.__init__" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20637789-5853-43c2-8d6c-540bfd5ca73e" name="Default Changelist" comment="" />
+      <created>1565717560378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565717560378</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="749" y="141" key="FileChooserDialogImpl" timestamp="1611971418564">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="749" y="141" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1611971418564" />
+    <state width="629" height="221" key="GridCell.Tab.0.bottom" timestamp="1611379036908">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="629" height="221" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1611379036908" />
+    <state width="629" height="221" key="GridCell.Tab.0.center" timestamp="1611379036908">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="629" height="221" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1611379036908" />
+    <state width="629" height="221" key="GridCell.Tab.0.left" timestamp="1611379036908">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="629" height="221" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1611379036908" />
+    <state width="629" height="221" key="GridCell.Tab.0.right" timestamp="1611379036908">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="629" height="221" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1611379036908" />
+    <state x="496" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1611971329965">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="496" y="264" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1611971329965" />
+    <state x="762" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1610087728187">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="762" y="89" width="672" height="678" key="search.everywhere.popup/0.30.1366.738@0.30.1366.738" timestamp="1610087728187" />
+  </component>
+</project>
